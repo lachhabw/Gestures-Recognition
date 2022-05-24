@@ -16,6 +16,10 @@ The test is 20% of original data, while train is 80% of the original data and au
 
 + learn.ipynb: the training file
 
++ angles_augmented_97: angles detection model of 97% accuracy
+
++ gestures_augmented_84: gestures detection model of 84% accuracy
+
 
 
 
