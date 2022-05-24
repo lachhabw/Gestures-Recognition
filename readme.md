@@ -16,7 +16,7 @@ This folder contains:
 
 + gestures_augmented_84: gestures detection model of 84% accuracy
 
-
+There are also some pictures of accuracies per angle, and the architecture of each model.
 
 
 
