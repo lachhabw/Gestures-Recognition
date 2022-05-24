@@ -1,3 +1,5 @@
+Hello!
+
 This folder contains:
 
 + final300pt.rar: it is the final dataset, after removing outliers, and reducing/augmenting the number of points to 300pt per sample.
